@@ -20,8 +20,8 @@
     `(a|b)c*d`, с помощью Graphviz. Результат сохраните в `task3.gv`.
     Должно выглядеть похоже на [`task3-expected.png`](task3-expected.png).
 
-4.  Создайте gnuplot-скрипт, отображающий курс доллара США к рублю за 10 лет в виде графика с помощью gnuplot.
-    Входные данные нужно брать из [`task4-data.txt`](task4-data.txt).
+4.  (Опциональное.) Создайте gnuplot-скрипт, отображающий курс доллара США к рублю за 10 лет в виде графика с помощью gnuplot.
+    Входные данные нужно брать из [`task4-data.txt`](task4-data.txt) ([спасибо, ФИНАМ](https://www.finam.ru/profile/kurs-rublya/usd-from-cb/export/)).
     Должно выглядеть похоже на [`task4-expected.png`](task4-expected.png).
 
     Обратите внимание, что мало сказать, что ось `x` имеет формат `time`, надо
